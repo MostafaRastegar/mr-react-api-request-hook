@@ -12,14 +12,6 @@ A powerful, flexible React hook for handling API requests with built-in state ma
 - 🎛️ **Manual Control**: Full control over when and how requests are made
 - 🧩 **TypeScript Support**: Fully typed for better developer experience
 
-## Installation
-
-```bash
-npm install use-api-request
-# or
-yarn add use-api-request
-```
-
 ## Basic Usage
 
 ```tsx
