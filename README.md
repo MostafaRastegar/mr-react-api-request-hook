@@ -15,7 +15,7 @@ A powerful, flexible React hook for handling API requests with built-in state ma
 ## Basic Usage
 
 ```tsx
-import { useApiRequest } from 'use-api-request';
+import { useApiRequest } from './useApiRequest';
 
 const UserProfile = ({ userId }) => {
   const { data, loading, error, refetch } = useApiRequest(
